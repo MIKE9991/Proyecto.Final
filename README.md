@@ -13,3 +13,4 @@ Laboratorio #2
 5. [Peso](https://github.com/MIKE9991/Proyecto.Final/blob/main/Lab%20%232%20Peso%20MIGUEL%20KLISTOFF.cpp)
 
 Laboratorio #3
+1. [Binario](https://github.com/MIKE9991/Proyecto.Final/blob/main/Lab%20%233%20Binario%20MIGUEL%20KLISTOFF.cpp)
