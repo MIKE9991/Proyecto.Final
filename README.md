@@ -11,3 +11,5 @@ Laboratorio #2
 3. [Mayor menor](https://github.com/MIKE9991/Proyecto.Final/blob/main/Lab%20%232%20Mayor%20menor%20MIGUEL%20KLISTOFF.cpp)
 4. [Par impar](https://github.com/MIKE9991/Proyecto.Final/blob/main/Lab%20%232%20Par%20impar%20MIGUEL%20KLISTOFF.cpp)
 5. [Peso](https://github.com/MIKE9991/Proyecto.Final/blob/main/Lab%20%232%20Peso%20MIGUEL%20KLISTOFF.cpp)
+
+Laboratorio #3
